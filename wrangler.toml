@@ -4,12 +4,4 @@ pages_build_output_dir = "public"
 
 [[kv_namespaces]]
 binding = "QUOTA_KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
-preview_id = "REPLACE_WITH_YOUR_KV_PREVIEW_ID"
-
-[dev]
-port = 8788
-local_protocol = "http"
-
-[env.production]
-name = "slideai"
+id = "29334193b2bd4844af8058f569797fca"
